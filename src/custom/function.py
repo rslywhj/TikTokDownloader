@@ -1,5 +1,5 @@
-# from asyncio import sleep
-# from random import randint
+from asyncio import sleep
+from random import randint
 from typing import TYPE_CHECKING
 
 # from src.translation import _
